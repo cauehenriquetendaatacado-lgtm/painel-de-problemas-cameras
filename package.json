@@ -1,0 +1,8 @@
+{
+  "name": "analise-de-servico",
+  "version": "1.0.0",
+  "description": "Monitor de quedas em tempo real, estilo Downdetector",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
